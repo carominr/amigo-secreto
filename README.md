@@ -3,7 +3,5 @@ Poryecto desarrollado para el challenge de Alura en conjunto con Oracle, con el 
 El juego consiste en que el usuario agregue nombres de sus amigos, para que posteriormente se sortee y se de un ganador. Este ultimo, sera el amigo secreto. 
 <h2>Tecnologia Utilizadas</h2>
 1.Java Script
-
 2.CSS
-
 3.HTML
